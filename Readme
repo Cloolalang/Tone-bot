@@ -15,7 +15,7 @@ The DTMF transmitter will be either the MP3 Player module with 200ms wav files o
 
 The Outstation and gateways will implement squelch state and PTT state logic via the ESP32 GPIO.
 
-The use-case is non-licenced operation on PMR446/LDP433 bands and other bands for licenced radio users and amateurs.
+The use-case is non-licenced operation on PMR446/LDP433/FRS bands and other bands for licenced radio users and amateurs.
 
 There will be a talkie voice feature so users can get state information both by DTMF code and robot synthesised voice announcments
 
