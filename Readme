@@ -35,6 +35,24 @@ Radio amatuers have long been using DTMF on FM radio for a range of uses includi
 Rail-road operators in Australia use DTMF on FM radio to control crossings gates.
 DTMF on FM radio is also used for selective calling.
 
+The Outstaion hardware will offer the following interfaces:
+1) GPIO - Binary inputs
+2) GPIO - Binary outputs
+3) Analog inputs (adc) including battery monitor
+4) I2C
+5) SPI
+6) 4-20 mA
+7) Serial RS232/RS485
+8) Radio transceiver - PTT and Squelch
+9) MQTT over 802.11g
+10) Audio -talkie voice announcements
+11) DTMF audio input (from radio)
+12) DTMF audio output (to radio)
+13) one-wire bus
+14) Audio input monitor output (for setup levels etc)
+
+
+
 
 
 
