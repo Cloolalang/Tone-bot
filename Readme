@@ -43,7 +43,7 @@ The Outstaion hardware will offer the following interfaces:
 5) SPI
 6) 4-20 mA
 7) Serial RS232/RS485
-8) Radio transceiver - PTT and Squelch
+8) Radio transceiver - PTT and Squelch (squelch detect via light detector of radio RX led)
 9) MQTT over 802.11g
 10) Audio -talkie voice announcements
 11) DTMF audio input (from radio)
