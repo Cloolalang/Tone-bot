@@ -58,6 +58,7 @@ The Outstaion and gateway hardware will offer the following interfaces:
 12) DTMF audio output (to radio)
 13) one-wire bus
 14) Audio input monitor output (for setup levels etc)
+15) dtmf repeater.
 
 
 
